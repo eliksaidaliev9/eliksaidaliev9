@@ -18,7 +18,8 @@
 
 ### 🔹 Backend
 <img src="https://skillicons.dev/icons?i=python" height="30"/> Python  
-<img src="https://skillicons.dev/icons?i=django" height="30"/> Django  
+<img src="https://skillicons.dev/icons?i=django" height="30"/> Django 
+🤖 python-telegram-bot (Telegram bot integration)
 
 ### 🔹 Database
 <img src="https://skillicons.dev/icons?i=postgres" height="30"/> PostgreSQL  
