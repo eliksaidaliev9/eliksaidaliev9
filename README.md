@@ -60,14 +60,6 @@ Online appeal management system with role-based access control.
 
 ---
 
-## 🛠 Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,html,css,js,docker,aws" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Telegram: @elik_s
