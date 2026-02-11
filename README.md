@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elyor Mahamadjanov</h1>
-<h3 align="center">Junior Backend Developer | Django Developer</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
 ---
 
