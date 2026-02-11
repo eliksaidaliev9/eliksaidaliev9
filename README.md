@@ -7,7 +7,7 @@
 
 - 💻 Junior Backend Developer focused on **Python & Django**
 - 🚀 Building real-world web applications
-- 🌱 Currently learning **Django REST Framework & scalable backend architecture**
+- 🌱 Deepening my expertise in backend engineering, exploring AI integrations, and expanding towards full-stack development.**
 - ☁️ Experienced with deploying Django apps using Docker on AWS EC2
 - 🎯 Goal: To become a strong and reliable Software Engineer, building scalable and impactful systems.
 - 📍 Based in Uzbekistan
