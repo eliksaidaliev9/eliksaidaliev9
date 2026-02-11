@@ -17,27 +17,29 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Backend
-- Python
-- Django
-- Django REST Framework (learning)
+<img src="https://skillicons.dev/icons?i=python" height="30"/> Python  
+<img src="https://skillicons.dev/icons?i=django" height="30"/> Django  
+<img src="https://skillicons.dev/icons?i=drf" height="30"/> Django REST Framework
 
 ### 🔹 Database
-- PostgreSQL
-- SQLite
+<img src="https://skillicons.dev/icons?i=postgres" height="30"/> PostgreSQL  
+<img src="https://skillicons.dev/icons?i=sqlite" height="30"/> SQLite
 
 ### 🔹 DevOps & Deployment
-- Docker
-- Docker Compose
-- AWS (EC2)
+<img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker  
+<img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker Compose  
+<img src="https://skillicons.dev/icons?i=aws" height="30"/> AWS (EC2)
 
 ### 🔹 Frontend Basics
-- HTML
-- CSS
-- JavaScript
+<img src="https://skillicons.dev/icons?i=html" height="30"/> HTML  
+<img src="https://skillicons.dev/icons?i=css" height="30"/> CSS  
+<img src="https://skillicons.dev/icons?i=js" height="30"/> JavaScript
 
 ### 🔹 Tools
-- Git & GitHub
-- Postman
+<img src="https://skillicons.dev/icons?i=git" height="30"/> Git  
+<img src="https://skillicons.dev/icons?i=github" height="30"/> GitHub  
+<img src="https://skillicons.dev/icons?i=postman" height="30"/> Postman
+
 
 ---
 
