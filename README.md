@@ -60,14 +60,6 @@ Online appeal management system with role-based access control.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliksaidaliev9&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Telegram: @elik_s
