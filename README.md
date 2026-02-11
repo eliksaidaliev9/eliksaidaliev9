@@ -53,18 +53,14 @@
 
 ## 📂 Projects
 
-### 🍔 MaxWay  
-Food ordering system built with Django and PostgreSQL.  
-Features product management, media handling, and admin dashboard.
+## 📂 Featured Projects
 
-### 🎓 AdminLMS  
-University LMS admin dashboard for managing students, teachers, and courses.
+[🍔 MaxWay](https://github.com/eliksaidaliev9/MaxWay) – Food ordering system built with Django & PostgreSQL.  
 
-### 🛒 E-commerce Project  
-Full-featured online store with product management and user interaction.
+[🎓 AdminLMS](https://github.com/eliksaidaliev9/AdminLMS) – University LMS admin dashboard.  
 
-### 🏘 OpenMahalla  
-Online appeal management system with role-based access control.
+[🏘 OpenMahalla](https://github.com/eliksaidaliev9/OpenMahalla) – Online appeal management system.
+
 
 **… and a few more projects.**
 
