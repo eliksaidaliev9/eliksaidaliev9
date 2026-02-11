@@ -1,4 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Elik Saidaliyev</h1>
+<h3 align="center">Junior Backend Developer | Django Developer</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Junior Backend Developer focused on **Python & Django**
+- 🚀 Building real-world web applications
+- 🌱 Currently learning **Django REST Framework & scalable backend architecture**
+- 🎯 Goal: Become a strong and reliable Backend Engineer
+- 📍 Based in Uzbekistan
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- Python
+- Django
+- Django REST Framework (learning)
+
+### 🔹 Database
+- PostgreSQL
+- SQLite
+
+### 🔹 Frontend Basics
+- HTML
+- CSS
+- JavaScript
+
+### 🔹 Tools
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📂 Projects
+
+### 🍔 MaxWay  
+Food ordering system built with Django and PostgreSQL.  
+Features product management, media handling, and admin dashboard.
+
+### 🎓 AdminLMS  
+University LMS admin dashboard for managing students, teachers, and courses.
+
+### 🏘 OpenMahalla  
+Online appeal management system with role-based access control.
+
+### 🛒 E-commerce Project  
+Full-featured online store with product management and user interaction.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eliksaidaliev9&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Telegram: https://t.me/yourusername
+- Email: your-email@example.com
+
+---
+
+⭐ I am continuously improving my backend skills and building practical projects.
 
 <!--
 **eliksaidaliev9/eliksaidaliev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
