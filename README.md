@@ -50,13 +50,13 @@ Features product management, media handling, and admin dashboard.
 ### 🎓 AdminLMS  
 University LMS admin dashboard for managing students, teachers, and courses.
 
-### 🏘 OpenMahalla  
-Online appeal management system with role-based access control.
-
 ### 🛒 E-commerce Project  
 Full-featured online store with product management and user interaction.
 
-**… and a few more projects**
+### 🏘 OpenMahalla  
+Online appeal management system with role-based access control.
+
+**… and a few more projects.**
 
 ---
 
