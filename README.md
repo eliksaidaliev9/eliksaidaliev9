@@ -39,6 +39,12 @@
 <img src="https://skillicons.dev/icons?i=github" height="30"/> GitHub  
 <img src="https://skillicons.dev/icons?i=postman" height="30"/> Postman
 
+---
+
+### 🔹 API & Documentation
+<img src="https://skillicons.dev/icons?i=drf" height="30"/> RESTful API development  
+<img src="https://skillicons.dev/icons?i=swagger" height="30"/> Swagger / OpenAPI documentation  
+<img src="https://skillicons.dev/icons?i=jwt" height="30"/> JWT authentication
 
 ---
 
