@@ -41,13 +41,13 @@
 
 ---
 
-### 🔹 API & Documentation 
+## 📄 API & Documentation
 
-- REST API development
+💻 REST API development  
 
-- Swagger / OpenAPI documentation
+📑 Swagger / OpenAPI documentation  
 
-- JWT authentication
+🔐 JWT authentication
 
 ---
 
