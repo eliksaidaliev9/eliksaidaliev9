@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elik Saidaliyev</h1>
+<h1 align="center">Hi 👋, I'm Elyor Mahamadjanov</h1>
 <h3 align="center">Junior Backend Developer | Django Developer</h3>
 
 ---
