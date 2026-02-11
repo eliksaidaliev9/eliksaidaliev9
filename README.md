@@ -70,8 +70,7 @@ Full-featured online store with product management and user interaction.
 
 ## 📫 Contact
 
-- Telegram: https://t.me/yourusername
-- Email: your-email@example.com
+- Email: elik.saidaliev9@gmail.com
 
 ---
 
