@@ -56,6 +56,8 @@ Online appeal management system with role-based access control.
 ### 🛒 E-commerce Project  
 Full-featured online store with product management and user interaction.
 
+**… and a few more projects**
+
 ---
 
 ## 📊 GitHub Stats
