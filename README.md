@@ -74,9 +74,7 @@
 ## 📄 API & Documentation
 
 💻 REST API development  
-
 📑 Swagger / OpenAPI documentation  
-
 🔐 JWT authentication
 
 ---
