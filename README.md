@@ -24,7 +24,7 @@
 
 ### 🔹 API & Authentication
 
-🔄 RESTful API  
+🔄 RESTful APIs  
 🔐 JWT Authentication  
 📘 Swagger / OpenAPI  
 
