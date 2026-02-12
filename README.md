@@ -19,75 +19,54 @@
 ### 🔹 Core
 
 🐍 Python  
-
 🌿 Django  
-
 ⚡ Django REST Framework  
 
 ### 🔹 API & Authentication
 
 🔄 RESTful API  
-
 🔐 JWT Authentication  
-
 📘 Swagger / OpenAPI  
 
 ### 🔹 Databases & Caching
 
 🐘 PostgreSQL  
-
 🗄 SQLite  
-
 ⚡ Redis  
 
 ### 🔹 Async & Messaging
 
 🌱 Celery  
-
 📨 RabbitMQ  
 
 ### 🔹 DevOps & Deployment
 
 🐳 Docker & Docker Compose  
-
 ☁️ AWS (EC2)  
-
 🚀 Deployment & CI/CD  
-
 ⚙️ Performance Optimization  
 
 ### 🔹 Testing & Tools
 
 🧪 TDD  
-
 🔧 Git  
-
 🌍 GitHub  
-
 📬 Postman  
 
 ### 🔹 Frontend (Basic Knowledge)
 
 🌐 HTML  
-
 🎨 CSS  
-
 ✨ JavaScript
 
 ### 🔹 Additional Knowledge
 
 🧠 OOP
-
 🛡  ACID
-
 🔎 Django Search  
-
 📦 Djoser  
-
 🤖 python-telegram-bot  
-
 📧 Email Sending  
-
 📩 SMS Gateway  
 
 ---
