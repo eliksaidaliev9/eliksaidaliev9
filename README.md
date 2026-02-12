@@ -16,30 +16,79 @@
 
 ## 🛠 Tech Stack
 
-### 🔹 Backend
-<img src="https://skillicons.dev/icons?i=python" height="30"/> Python  
-<img src="https://skillicons.dev/icons?i=django" height="30"/> Django 
+### 🔹 Core
 
-🤖 python-telegram-bot (Telegram bot integration)
+🐍 Python  
 
-### 🔹 Database
-<img src="https://skillicons.dev/icons?i=postgres" height="30"/> PostgreSQL  
-<img src="https://skillicons.dev/icons?i=sqlite" height="30"/> SQLite
+🌿 Django  
+
+⚡ Django REST Framework  
+
+### 🔹 API & Authentication
+
+🔄 RESTful API  
+
+🔐 JWT Authentication  
+
+📘 Swagger / OpenAPI  
+
+### 🔹 Databases & Caching
+
+🐘 PostgreSQL  
+
+🗄 SQLite  
+
+⚡ Redis  
+
+### 🔹 Async & Messaging
+
+🌱 Celery  
+
+📨 RabbitMQ  
 
 ### 🔹 DevOps & Deployment
-<img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker  
-<img src="https://skillicons.dev/icons?i=docker" height="30"/> Docker Compose  
-<img src="https://skillicons.dev/icons?i=aws" height="30"/> AWS (EC2)
 
-### 🔹 Frontend Basics
-<img src="https://skillicons.dev/icons?i=html" height="30"/> HTML  
-<img src="https://skillicons.dev/icons?i=css" height="30"/> CSS  
-<img src="https://skillicons.dev/icons?i=js" height="30"/> JavaScript
+🐳 Docker & Docker Compose  
 
-### 🔹 Tools
-<img src="https://skillicons.dev/icons?i=git" height="30"/> Git  
-<img src="https://skillicons.dev/icons?i=github" height="30"/> GitHub  
-<img src="https://skillicons.dev/icons?i=postman" height="30"/> Postman
+☁️ AWS (EC2)  
+
+🚀 Deployment & CI/CD  
+
+⚙️ Performance Optimization  
+
+### 🔹 Testing & Tools
+
+🧪 TDD  
+
+🔧 Git  
+
+🌍 GitHub  
+
+📬 Postman  
+
+### 🔹 Frontend (Basic Knowledge)
+
+🌐 HTML  
+
+🎨 CSS  
+
+✨ JavaScript
+
+### 🔹 Additional Knowledge
+
+🧠 OOP
+
+🛡  ACID
+
+🔎 Django Search  
+
+📦 Djoser  
+
+🤖 python-telegram-bot  
+
+📧 Email Sending  
+
+📩 SMS Gateway  
 
 ---
 
